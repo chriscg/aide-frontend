@@ -1459,5 +1459,8 @@
   <ItemGroup>
     <Resource Include="Assets\Button\Comcelllogo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\Menu\comcell1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
